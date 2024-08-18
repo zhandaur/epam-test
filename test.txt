@@ -1,3 +1,5 @@
 text
 second line of the text
 
+some new content
+--------------------
